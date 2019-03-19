@@ -1,0 +1,11 @@
+Index: job.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- job.java	(revision f0228b95a972d0d049d1427f53527f1d5ce08c29)
++++ job.java	(date 1552967320623)
+@@ -1,1 +1,2 @@
+ 111111sssssss
++fdsafd
+\ No newline at end of file
